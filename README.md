@@ -1,28 +1,13 @@
-Лабораторная работа #4. 
+# Лабораторная работа #4. 
 
-Создание Электронного учебника
+## Создание Электронного учебника
 
-Агитаев И.А. CS-202(с)
+Агитаев Адиль. CS-204(с)
 
-Боковое меню электронного учебника.
+![1](https://user-images.githubusercontent.com/90747656/235931219-aa1b8a0a-6d32-4766-8a2e-a8e02f04e554.png)
 
+![2](https://user-images.githubusercontent.com/90747656/235931224-51116522-a3e2-4240-88a5-eb858d19fbf4.png)
 
-![Screenshot](screenshot1.png)
+![3](https://user-images.githubusercontent.com/90747656/235931229-b7e0af99-fcb7-44f0-8bf7-1b5f97de5dc9.png)
 
-
-Бонус: 5 точных сервисов с прогнозом погоды.
-
-
-![Screenshot](screenshot2.png)
-
-
-Использованная литература.
-
-
-![Screenshot](screenshot3.png)
-
-
-Отправка письма автору
-
-
-![Screenshot](screenshot4.png)
+![4](https://user-images.githubusercontent.com/90747656/235931234-bde51dc2-5f78-4728-bed6-eef76a2918a5.png)
